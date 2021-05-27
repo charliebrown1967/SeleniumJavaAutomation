@@ -1,0 +1,6 @@
+pages\GooglePage.class
+base\Setup.class
+base\Locations.class
+base\ScreenShot.class
+test\NewTest.class
+base\Base.class
